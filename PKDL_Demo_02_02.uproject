@@ -102,6 +102,10 @@
 		{
 			"Name": "MediaFrameworkUtilities",
 			"Enabled": true
+		},
+		{
+			"Name": "VlcMedia",
+			"Enabled": false
 		}
 	]
 }
